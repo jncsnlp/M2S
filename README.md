@@ -1,6 +1,6 @@
-# M2S['A Novel MLLMs-based Two-stage Model for Zero-shot Multimodal Sentiment Analysis']
+# M2S ['A Novel MLLMs-based Two-stage Model for Zero-shot Multimodal Sentiment Analysis'](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_41)
 
-This is the implementation of our PRICAI '25 paper "A Novel MLLMs-based Two-stage Model for Zero-shot Multimodal Sentiment Analysis", Lu Hengyang,Li Xiaofei.
+This is the implementation of our PRICAI '25 paper "A Novel MLLMs-based Two-stage Model for Zero-shot Multimodal Sentiment Analysis", Lu Hengyang, Li Xiaofei.
 
 
 ## Datasets
@@ -29,3 +29,19 @@ sh prompt_caption.sh
 
 python ensemble_prompt.py
 ```
+
+## Cite Information
+
+Lu, H. Y., & Li, X. F. (2024, November). A Novel MLLMs-Based Two-Stage Model for Zero-Shot Multimodal Sentiment Analysis. In Pacific Rim International Conference on Artificial Intelligence (pp. 436-449). Singapore: Springer Nature Singapore.
+```
+@inproceedings{lu2024novel,
+  title={A Novel MLLMs-Based Two-Stage Model for Zero-Shot Multimodal Sentiment Analysis},
+  author={Lu, Heng-Yang and Li, Xiao-Fei},
+  booktitle={Pacific Rim International Conference on Artificial Intelligence},
+  pages={436--449},
+  year={2024},
+  organization={Springer}
+}
+```
+
+Contact: 19850176872@163.com
